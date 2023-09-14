@@ -26,6 +26,6 @@ int main(void)
 		fib2 = sum;
 	}
 
-	printf("\n");
+	printf("...\n");
 	return (0);
 }

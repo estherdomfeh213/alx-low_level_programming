@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-  * rest_to_98 - a function name that take a parameter
-  * @n: a function parameter
-  */
+ * reset_to_98 - A function name
+ * @n: paramater name
+ */
 
 void reset_to_98(int *n)
 {
